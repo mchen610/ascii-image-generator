@@ -1,0 +1,17 @@
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\AsciiApp.csproj.AssemblyReference.cache
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\AsciiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\AsciiApp.AssemblyInfoInputs.cache
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\AsciiApp.AssemblyInfo.cs
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\AsciiApp.csproj.CoreCompileInputs.cache
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\AsciiApp.csproj.CopyComplete
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\AsciiApp.exe
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\AsciiApp.dll
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\refint\AsciiApp.dll
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\AsciiApp.pdb
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\AsciiApp.deps.json
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\AsciiApp.genruntimeconfig.cache
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\AsciiApp.runtimeconfig.json
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\AsciiApp.dll
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\obj\Debug\ref\AsciiApp.dll
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\AsciiApp.pdb
+C:\Users\610mo\Desktop\make-ascii\AsciiApp\SixLabors.ImageSharp.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KXThWiOyU4baipM8q1AF6nQeJqJApN38g5Hh0Py/quxr8eSc0pOuO0/mFBBZPuR5zBtXZlahbFvyv/1fo5uj+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\610mo\\Desktop\\make-ascii\\AsciiApp\\AsciiApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\610mo\\.nuget\\packages\\sixlabors.imagesharp\\3.0.2\\sixlabors.imagesharp.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
