@@ -49,6 +49,6 @@ class Program
 
     public static double getBrightness(Rgba32 pixel)
     {
-        return (0.299 * pixel.R + 0.586 * pixel.G + 0.114 * pixel.B) / 255;
+        return (0.300 * pixel.R + 0.600 * pixel.G + 0.100 * pixel.B) / 256;
     }
 }
